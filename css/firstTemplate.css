@@ -27,7 +27,7 @@ h1 {
 div.one{
     width: 250px;
     height: 130px;
-    background-image: url('/C:/Users/user/Desktop/IOS/firstTemplate/pictures/picture2.jpg');
+    background-image: url('picture2.jpg');
     background-position: center;
     background-size: 150px 200px;
 }
